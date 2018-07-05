@@ -1,7 +1,7 @@
 <template>
   <div class="main">
-    <button @click="clickBtn">点击数量增加</button>
-    <span>显示{{itemNum}}</span>
+    <button @click="clickBtn">鐐瑰嚮鏁伴噺澧炲姞</button>
+    <span>鏄剧ず{{itemNum}}</span>
   </div>
 </template>
 <script>
